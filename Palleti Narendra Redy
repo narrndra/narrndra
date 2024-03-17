@@ -1,3 +1,16 @@
 ## Title of the project :
 Music Player Based on Emotion Recognition
 
+## Team Details :
+Team Number : VH245
+Team Members :
+PALLETI NARENDRA REDDY - drwakanarendra@gmail.com
+PAVANKUMAR A           - 99210041617@Kklu.ac.in
+SYED ELIYAS            - 99210041289@klu.ac.in
+MURARI HARI KRISHNA    - 99210041947@klu.ac.in
+
+## Problem Statement :
+Build a music player using Machine learning
+
+## About the project
+To create a music player that automatically selects and plays songs based on the detected emotions of the user's face. It utilizes facial detection and emotion recognition to determine the user's emotional state and selects appropriate music accordingly.
